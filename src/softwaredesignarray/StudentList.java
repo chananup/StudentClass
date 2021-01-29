@@ -13,7 +13,7 @@ public class StudentList {
     
     public static void main(String[]args){
         
-        SudentClass [] studentArray = new SudentClass[3];
+        SudentClass [] studentArray = new SudentClass[2];
         SudentClass s1 = new SudentClass();
         s1.setName("anu");
         SudentClass s2 = new SudentClass();
