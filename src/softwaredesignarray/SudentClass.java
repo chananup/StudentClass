@@ -6,7 +6,8 @@
 package softwaredesignarray;
 
 /**
- *
+ * This comment was added from github on 5 Feb 9.41am
+   To check fetch and merge
  * @author chand
  */
 public class SudentClass {
